@@ -9,7 +9,7 @@ public class Test1 {
 		
 		String hungry2="Dont";
 		
-		String hungry3="Never";
+		String hungry3="Nev";
 		
 		if(hungry =="yes")
 			System.out.println("eat something...");
