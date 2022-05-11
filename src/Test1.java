@@ -9,6 +9,8 @@ public class Test1 {
 		
 		String hungry2="Dont";
 		
+		String hungry3="Never";
+		
 		if(hungry =="yes")
 			System.out.println("eat something...");
 		else {
