@@ -5,6 +5,8 @@ public class Test1 {
 		
 		String hungry="yes";
 		
+		String hungry1="No";
+		
 		if(hungry =="yes")
 			System.out.println("eat something...");
 		else {
