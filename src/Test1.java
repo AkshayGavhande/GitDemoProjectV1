@@ -11,6 +11,8 @@ public class Test1 {
 		
 		String hungry3="Nev";
 		
+		String hungry4="Always";
+		
 		if(hungry =="yes")
 			System.out.println("eat something...");
 		else {
