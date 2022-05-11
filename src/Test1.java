@@ -7,6 +7,8 @@ public class Test1 {
 		
 		String hungry1="No";
 		
+		String hungry2="Dont";
+		
 		if(hungry =="yes")
 			System.out.println("eat something...");
 		else {
